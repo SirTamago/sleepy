@@ -1,1 +1,7 @@
 flask
+markupsafe
+requests
+pygetwindow
+psutil
+win32gui
+win32process
